@@ -1,4 +1,4 @@
-# AI Article Processor
+# 1. AI Article Processor
 
 ## Opis projektu
 
@@ -62,7 +62,7 @@ Kod HTML generowany przez AI zawiera strukturę artykułu z użyciem odpowiednic
 
 ## Uwaga: W kodzie HTML nie ma stylów CSS ani JavaScript.
 
-# Aplikacja do Generowania i Szablonowania Strony HTML na Podstawie Tekstu
+# 2. Aplikacja do Generowania i Szablonowania Strony HTML na Podstawie Tekstu
 
 ## Opis projektu
 
