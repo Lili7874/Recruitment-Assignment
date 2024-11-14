@@ -21,19 +21,15 @@ Kod HTML generowany przez AI zawiera strukturę artykułu z użyciem odpowiednic
 
 1. **Klonowanie repozytorium:**
    ```bash
-   git clone https://github.com/TwojeRepozytorium/AI-Article-Processor.git
+   git clone https://github.com/Lili7874/Recruitment-Assignment.git
    ```
 2. **Przejście do katalogu projektu:**
   ```bash
-  cd AI-Article-Processor
+  cd Recruitment-Assignment
   ```
 3. **Instalacja zależności:**
   Upewnij się, że masz zainstalowanego Pythona w wersji 3.8 lub wyższej.
 
-4. **Zainstaluj wymagane pakiety:**
-  ```bash
-  pip install -r requirements.txt
-  ```
 ## Użycie
 
 1.**Dodanie klucza API OpenAI:**
@@ -90,8 +86,8 @@ Aplikacja generuje stronę HTML na podstawie treści zawartej w pliku tekstowym 
 
 1. **Klonowanie repozytorium**
    ```bash
-   git clone <link-do-repozytorium>
-   cd <nazwa-repozytorium>
+   git clone https://github.com/Lili7874/Recruitment-Assignment.git
+   cd Recruitment-Assignment
 
 2. **Instalacja wymaganych bibliotek**
 
@@ -99,10 +95,11 @@ Aplikacja generuje stronę HTML na podstawie treści zawartej w pliku tekstowym 
 
    ```bash
    pip install openai
-   Konfiguracja klucza API
    ```
 
-3. **W pliku Zadanie.py wstaw swój klucz API OpenAI w zmiennej API_KEY:**
+3. **Konfiguracja klucza API
+
+   W pliku Zadanie.py wstaw swój klucz API OpenAI w zmiennej API_KEY:
 
    ```python
    API_KEY = 'wstaw-swoj-klucz-api'
@@ -116,7 +113,7 @@ Aplikacja generuje stronę HTML na podstawie treści zawartej w pliku tekstowym 
       **Uruchom skrypt Python:**
    
    ```bash
-   python Zadanie.py
+   python Zadanie_testowe_dodatkowe.py
    ```
    
 7. **Po uruchomieniu aplikacja:**
