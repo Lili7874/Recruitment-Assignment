@@ -57,6 +57,6 @@ Kod HTML generowany przez AI zawiera strukturę artykułu z użyciem odpowiednic
 
 ## Uwagi
   **-Kod generowany przez API OpenAI zawiera jedynie strukturę HTML przeznaczoną do wstawienia pomiędzy tagami 'body'.**<br>
-  **-Tag <img> używa src="image_placeholder.jpg" jako tymczasowego odnośnika oraz zawiera atrybut alt z promptem do wygenerowania odpowiedniej grafiki.**<br>
+  **-Tag img używa src="image_placeholder.jpg" jako tymczasowego odnośnika oraz zawiera atrybut alt z promptem do wygenerowania odpowiedniej grafiki.**<br>
   
 ## Uwaga: W kodzie HTML nie ma stylów CSS ani JavaScript.
